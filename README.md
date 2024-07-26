@@ -48,7 +48,8 @@ open up localhost:
 
 ## Sample
 
-![OpenAI Logo](https://github.com/codeakki/ChatBotGeminiLLM/blob/master/image.png)
+![OpenAI Logo](https://github.com/codeakki/YouTubeTranscribeGemini/blob/master/image.png)
+![OpenAI Logo](https://github.com/codeakki/YouTubeTranscribeGemini/blob/master/image%20copy.png)
 
 ### Techstack Used:
 
